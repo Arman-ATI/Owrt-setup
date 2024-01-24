@@ -16,7 +16,7 @@ while true; do
     clear
         echo -e "${BLUE}${YELLOW} 1.${NC} ${CYAN}install usb${NC}         ${BLUE}${NC}"
         echo -e "${BLUE}${YELLOW} 2.${NC} ${CYAN}install v2ray${NC}         ${BLUE}${NC}"
-        echo -e "${BLUE}${YELLOW} 3.${NC} ${CYAN}install needed pkgs and swap${NC}         ${BLUE}${NC}"
+        echo -e "${BLUE}${YELLOW} 3.${NC} ${CYAN}install usb and v2ray${NC}         ${BLUE}${NC}"
         echo -e "${BLUE}${YELLOW} 0.${NC} ${CYAN}exit${NC}         ${BLUE}${NC}"
         echo -e "This bash  was created by ${GREEN}ArmanATI${NC}\n"
 
